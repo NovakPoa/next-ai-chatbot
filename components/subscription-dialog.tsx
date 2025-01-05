@@ -36,7 +36,7 @@ export default function SubscriptionDialog(
     try {
       const lineItems = [
         {
-          price: 'price_1OpZIpFohaWPLRtCx8kh4FN5',
+          price: 'price_1Qdv1FGqxG5EJuapju2JW0EX',
           quantity: 1
         }
       ]
